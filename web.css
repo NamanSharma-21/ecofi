@@ -1,0 +1,5 @@
+.grid-item {
+  position: relative; 
+  top: random(5rem, 20rem);
+  right: random(5rem, 15rem);
+}
